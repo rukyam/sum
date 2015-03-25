@@ -1,0 +1,39 @@
+    1  githelp
+    2  git
+    3  git config
+    4  which git
+    5  git help
+    6  git config --global user.name "Rukesh"
+    7  git config --global user.email rukyam6699@gmail.com
+    8  mkdir myfirst
+    9  ls
+   10  cd myfirst
+   11  pwd
+   12  vim sum.c
+   13  ls
+   14  vim sum.c
+   15  ls
+   16  cd myfirst
+   17  vim sum.c
+   18  ls
+   19  vim sum.c
+   20  ls
+   21  git init
+   22  ls
+   23  git add
+   24  pwd
+   25  git add
+   26  git commit
+   27  ls
+   28  git status
+   29  git add
+   30  git add .
+   31  git commit
+   32  git clone https://github.com/rukyam/sum
+   33  git remote add
+   34  git remote add https://github.com/rukyam/sum
+   35  git remote add origin https://github.com/rukyam/sum
+   36  git push origin master
+   37  myhistory
+   38  history
+   39  history>myhistory
